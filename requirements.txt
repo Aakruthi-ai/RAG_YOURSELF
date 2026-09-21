@@ -1,0 +1,11 @@
+gradio
+sentence-transformers
+networkx
+groq
+scikit-learn
+numpy
+pandas
+pyvis
+rank_bm25
+pypdf
+requests

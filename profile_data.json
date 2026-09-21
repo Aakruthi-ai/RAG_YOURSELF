@@ -1,0 +1,178 @@
+{
+  "about": "AI and Data Science student with a strong academic foundation (9 CGPA) and passionate about building practical machine learning systems, with a focus on NLP and retrieval-augmented generation.",
+  "skills": [
+    { "id": "skill_python", "name": "Python", "description": "Core language for data science and ML projects." },
+    { "id": "skill_ml", "name": "Machine Learning", "description": "Supervised/unsupervised learning, scikit-learn, model evaluation." },
+    { "id": "skill_dl", "name": "Deep Learning", "description": "Neural networks, PyTorch, TensorFlow, and GPU acceleration." },
+    { "id": "skill_nlp", "name": "NLP", "description": "Text preprocessing, embeddings, transformer-based language models, TF-IDF." },
+    { "id": "skill_llm", "name": "LLM", "description": "Large language models, prompt engineering, inference via API (Llama 3.3, Gemini, GPT-class models)." },
+    { "id": "skill_genai", "name": "Generative AI", "description": "Fundamentals of generative AI and practical applications." },
+    { "id": "skill_prompt_engineering", "name": "Prompt Engineering", "description": "Designing effective prompts for LLM-driven applications." },
+    { "id": "skill_mcp", "name": "MCP", "description": "Model Context Protocol (MCP) for structured communication with LLMs, including tools, resources, prompts, and Streamable HTTP transport." },
+    { "id": "skill_sql", "name": "SQL", "description": "Relational database querying and design." },
+    { "id": "skill_bigquery", "name": "BigQuery", "description": "Google Cloud BigQuery for data ingestion and analytics." },
+    { "id": "skill_cloud", "name": "Cloud Deployment", "description": "Deploying models/apps using Hugging Face Spaces and Google Cloud." },
+    { "id": "skill_swift", "name": "Swift", "description": "Swift programming for iOS applications." },
+    { "id": "skill_swiftui", "name": "SwiftUI", "description": "Declarative UI framework for iOS." },
+    { "id": "skill_firebase_authentication", "name": "Firebase Authentication", "description": "User auth via Firebase." },
+    { "id": "skill_firestore", "name": "Firestore", "description": "NoSQL cloud database from Firebase." },
+    { "id": "skill_firebase_storage", "name": "Firebase Storage", "description": "Cloud object storage for app content." },
+    { "id": "skill_mvvm_architecture", "name": "MVVM Architecture", "description": "Model-View-ViewModel app architecture." },
+    { "id": "skill_github_actions", "name": "GitHub Actions", "description": "CI/CD workflows on GitHub." },
+    { "id": "skill_ci_cd", "name": "CI/CD", "description": "Automated build, test, and deploy pipelines." },
+    { "id": "skill_ios_development", "name": "iOS Development", "description": "Building and shipping iOS applications." },
+    { "id": "skill_service_account_authentication", "name": "Service Account Authentication", "description": "Google Cloud service-account credentialing." },
+    { "id": "skill_nvidia_rapids", "name": "NVIDIA RAPIDS", "description": "GPU-accelerated data processing with cuDF and cuGraph." },
+    { "id": "skill_networkx", "name": "NetworkX", "description": "Graph analytics in Python." },
+    { "id": "skill_concurrent_programming", "name": "Concurrent Programming", "description": "ThreadPoolExecutor, concurrent.futures, parallel pipelines." },
+    { "id": "skill_gemini_llm", "name": "Gemini LLM", "description": "Gemini 2.5 Flash function calling and orchestration." },
+    { "id": "skill_function_calling", "name": "Function Calling", "description": "LLM-driven tool/function invocation." },
+    { "id": "skill_streamlit", "name": "Streamlit", "description": "Interactive data dashboards in Python." },
+    { "id": "skill_real_time_dashboard", "name": "Real-Time Dashboard", "description": "Live-updating monitoring dashboards." },
+    { "id": "skill_data_ingestion", "name": "Data Ingestion", "description": "Pulling and loading data from external sources." },
+    { "id": "skill_gpu_accelerated_feature_engineering", "name": "GPU-Accelerated Feature Engineering", "description": "Feature pipelines accelerated with NVIDIA RAPIDS." },
+    { "id": "skill_graph_fraud_detection", "name": "Graph Fraud Detection", "description": "Fraud-ring detection over transaction graphs." },
+    { "id": "skill_logistics_scoring", "name": "Logistics Scoring", "description": "Scoring logistics disruption risk." },
+    { "id": "skill_business_process_automation", "name": "Business Process Automation", "description": "Autonomous decision execution and rule-engine fallbacks." },
+    { "id": "skill_pygame", "name": "Pygame", "description": "2D game development in Python." },
+    { "id": "skill_game_development", "name": "Game Development", "description": "Designing and building playable games." },
+    { "id": "skill_procedural_content_generation", "name": "Procedural Content Generation", "description": "Algorithmically generated game content." },
+    { "id": "skill_real_time_input_handling", "name": "Real-Time Input Handling", "description": "Low-latency input processing for games." },
+    { "id": "skill_vector_graphics", "name": "Vector Graphics", "description": "Vector-based rendering for games." },
+    { "id": "skill_time_manipulation_mechanics", "name": "Time Manipulation Mechanics", "description": "Rewind/undo mechanics in gameplay." },
+    { "id": "skill_path_finding_algorithms", "name": "Path-Finding Algorithms", "description": "A*/grid path-finding for game AI." },
+    { "id": "skill_object_oriented_programming", "name": "Object-Oriented Programming", "description": "OOP design in Python." },
+    { "id": "skill_randomized_gameplay", "name": "Randomized Gameplay", "description": "Randomness-driven game systems." },
+    { "id": "skill_scikit_learn", "name": "Scikit-learn", "description": "Classical ML models including Random Forest, Logistic Regression." },
+    { "id": "skill_random_forest", "name": "Random Forest", "description": "Tree-ensemble regression and classification." },
+    { "id": "skill_gradio", "name": "Gradio", "description": "Python UI framework for ML demos (gr.Blocks)." },
+    { "id": "skill_web_app_development", "name": "Web App Development", "description": "Building deployable ML-backed web apps." },
+    { "id": "skill_multilingual_ui", "name": "Multilingual UI", "description": "Interfaces supporting multiple languages." },
+    { "id": "skill_voice_input_processing", "name": "Voice Input Processing", "description": "Speech-to-text and spoken input handling." },
+    { "id": "skill_hugging_face_spaces", "name": "Hugging Face Spaces", "description": "Deploying Gradio apps to Hugging Face Spaces." },
+    { "id": "skill_data_preprocessing", "name": "Data Preprocessing", "description": "Cleaning and preparing data for models." },
+    { "id": "skill_model_inference", "name": "Model Inference", "description": "Serving trained models for prediction." },
+    { "id": "skill_tf_idf", "name": "TF-IDF", "description": "Text vectorization via TF-IDF bigrams." },
+    { "id": "skill_logistic_regression", "name": "Logistic Regression", "description": "Linear classifier for text." },
+    { "id": "skill_groq_api", "name": "Groq API", "description": "LLM inference via Groq (Llama 3.3 70B)." },
+    { "id": "skill_beautifulsoup4", "name": "BeautifulSoup4", "description": "HTML parsing for scraping." },
+    { "id": "skill_newspaper3k", "name": "Newspaper3k", "description": "Article extraction library." },
+    { "id": "skill_joblib", "name": "Joblib", "description": "Model serialization and parallel jobs." },
+    { "id": "skill_web_scraping", "name": "Web Scraping", "description": "Automated extraction of content from web pages." },
+    { "id": "skill_fake_news_detection", "name": "Fake News Detection", "description": "Classifying articles as credible or fake." },
+    { "id": "skill_job_posting_fraud_detection", "name": "Job Posting Fraud Detection", "description": "Detecting fraudulent job listings." }
+  ],
+  "courses": [
+    {
+      "id": "course_python",
+      "name": "Python Fundamentals",
+      "description": "University course covering Python coding basics like loops, conditionals, and functions.",
+      "skills_covered": ["skill_python"]
+    },
+    {
+      "id": "course_dbms",
+      "name": "Database Management Systems",
+      "description": "Relational database design and SQL querying.",
+      "skills_covered": ["skill_sql"]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert_1",
+      "name": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      "description": "Completed this course from LinkedIn Learning, covering the fundamentals of generative AI, including LLMs, prompt engineering, and practical applications.",
+      "skills_related": ["skill_llm", "skill_genai", "skill_prompt_engineering"]
+    },
+    {
+      "id": "cert_2",
+      "name": "Generative AI literacy",
+      "description": "Completed this course from Nasscom, focusing on the practical implementation of generative AI models.",
+      "skills_related": ["skill_llm", "skill_genai"]
+    },
+    {
+      "id": "cert_3",
+      "name": "Model Context Protocol: Advanced Topics",
+      "description": "Completed this course from Anthropic, covering Sampling, logging, progress notifications, roots, the full MCP spec, and transports including Streamable HTTP.",
+      "skills_related": ["skill_mcp", "skill_llm"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_rag_self",
+      "name": "RAG-over-Myself Career Assistant",
+      "description": "An agentic GraphRAG system that answers questions about my own skills, projects, and courses, and performs job-description gap analysis to suggest resume improvements.",
+      "skills_used": ["skill_python", "skill_nlp", "skill_dl", "skill_llm", "skill_cloud"],
+      "courses_used": []
+    },
+    {
+      "id": "proj_multi_agent_fraud_risk",
+      "name": "Multi-Agent Fraud & Logistics Risk System",
+      "description": "Designed a 7-agent architecture spanning BigQuery data ingestion, GPU-accelerated feature engineering, graph-based fraud ring detection, and autonomous decision execution. Achieved a 46x speedup in feature engineering using NVIDIA RAPIDS cudf.pandas. Built a graph fraud-ring detector with cuGraph/NetworkX and orchestrated autonomous decisioning with Gemini 2.5 Flash function calling, with a deterministic rule-engine fallback.",
+      "skills_used": [
+        "skill_python", "skill_bigquery", "skill_service_account_authentication",
+        "skill_nvidia_rapids", "skill_networkx", "skill_concurrent_programming",
+        "skill_gemini_llm", "skill_function_calling", "skill_streamlit",
+        "skill_real_time_dashboard", "skill_data_ingestion",
+        "skill_gpu_accelerated_feature_engineering", "skill_graph_fraud_detection",
+        "skill_logistics_scoring", "skill_business_process_automation", "skill_dl"
+      ],
+      "courses_used": []
+    },
+    {
+      "id": "proj_truthmate",
+      "name": "TruthMate: AI Fake Content Detector",
+      "description": "Built domain-specific Logistic Regression models using TF-IDF bigrams and oversampling, achieving 99.5% accuracy. Integrated Llama 3.3 via the Groq API as a reasoning layer for contextual red-flag detection and credibility scoring. Deployed via Gradio with automated URL scraping and real-time suspicious-sentence highlighting.",
+      "skills_used": [
+        "skill_python", "skill_scikit_learn", "skill_tf_idf",
+        "skill_logistic_regression", "skill_groq_api", "skill_gradio",
+        "skill_beautifulsoup4", "skill_newspaper3k", "skill_joblib",
+        "skill_ml", "skill_nlp", "skill_llm", "skill_web_scraping",
+        "skill_fake_news_detection", "skill_job_posting_fraud_detection"
+      ],
+      "courses_used": []
+    },
+    {
+      "id": "proj_mcp_opssentinel",
+      "name": "OpsSentinel",
+      "description": "An incident investigation MCP server exposing all three MCP primitives — tools, resources, and prompts.",
+      "skills_used": ["skill_mcp", "skill_python", "skill_llm"],
+      "courses_used": []
+    },
+    {
+      "id": "proj_gh_market_place",
+      "name": "Market_Place",
+      "description": "A SwiftUI iOS marketplace app that enables user sign-up, browsing, searching, and posting of second-hand listings with photos, backed by Firebase Authentication, Firestore, and Storage, and includes an automated GitHub Actions CI pipeline.",
+      "skills_used": [
+        "skill_swift", "skill_swiftui", "skill_firebase_authentication",
+        "skill_firestore", "skill_firebase_storage", "skill_mvvm_architecture",
+        "skill_github_actions", "skill_ci_cd", "skill_ios_development"
+      ],
+      "courses_used": []
+    },
+    {
+      "id": "proj_gh_continuum_arena",
+      "name": "Continuum_arena",
+      "description": "A cyberpunk-styled 2D action arena built with Python and Pygame that features a unique Time Reversal System and procedurally generated maps, allowing players to rewind combat and collect power-ups in fast-paced vector-graphics battles.",
+      "skills_used": [
+        "skill_python", "skill_pygame", "skill_game_development",
+        "skill_procedural_content_generation", "skill_real_time_input_handling",
+        "skill_vector_graphics", "skill_time_manipulation_mechanics",
+        "skill_path_finding_algorithms", "skill_object_oriented_programming",
+        "skill_randomized_gameplay"
+      ],
+      "courses_used": []
+    },
+    {
+      "id": "proj_mandi_price",
+      "name": "Mandi Price Prediction & Negotiation App",
+      "description": "Trained a Random Forest model to predict market prices for agricultural commodities and built a voice-driven negotiation assistant that compares spoken offers to predicted prices. Implemented a multilingual UI (English, Hindi, Kannada) with live confidence scoring and deployed as a Gradio app on Hugging Face Spaces.",
+      "skills_used": [
+        "skill_python", "skill_scikit_learn", "skill_random_forest", "skill_ml",
+        "skill_gradio", "skill_web_app_development", "skill_multilingual_ui",
+        "skill_voice_input_processing", "skill_nlp", "skill_hugging_face_spaces",
+        "skill_data_preprocessing", "skill_model_inference"
+      ],
+      "courses_used": []
+    }
+  ]
+}
